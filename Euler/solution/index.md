@@ -13,7 +13,7 @@
             <tr>
                 <td> P448 </td>
                 <td>
-                    <a href="https://cyn2006.github.io/Euler/solution/problemset/p448">
+                    <a href="https://www.luogu.com.cn/blog/stupidcyn/euler-p448">
                         <font color="skyblue">
                             链接
                         </font>
@@ -23,7 +23,7 @@
             <tr>
                 <td> P381 </td>
                 <td>
-                    <a href="https://cyn2006.github.io/Euler/solution/problemset/p381">
+                    <a href="https://www.luogu.com.cn/blog/stupidcyn/euler-p381">
                         <font color="skyblue">
                             链接
                         </font>
