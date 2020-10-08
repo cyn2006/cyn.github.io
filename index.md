@@ -91,7 +91,7 @@ A：博主也不知道，大概是用来展现自己的弱小的吧。
 </div>
 
 <div>
-    <a href="https://cyn2006.github.io/Euler">
+    <a href="https://cyn2006.github.io/Euler/solution">
         <font color="skyblue">
             总链接
         </font>
