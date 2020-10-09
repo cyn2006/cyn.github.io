@@ -45,7 +45,7 @@ Q：这个博客好吗？
 </div>
 
 <div>
-    <a href="">
+    <a href="https://cyn2006.github.io/categories">
         <font color="skyblue">
             点击此处
         </font>
