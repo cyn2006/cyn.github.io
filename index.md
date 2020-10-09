@@ -1,5 +1,5 @@
 <div align = "center">
-    <font size="8" color="black" style="font-family:SontTi">
+    <font size="8" color="black" style="font-family:'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial,sans-serif">
         <b>
             cyn's blog
         </b>
@@ -7,21 +7,23 @@
 </div>
 
 <div algin="center">
-    <font size="6">
-        About
-    </font>
+    <br>
+        <font size="6" style="font-family:'Trebuchet MS=','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial,sans-serif">
+            About
+        </font>
+	</br>
 </div>
 
 Q：这个博客是拿来干嘛用的？
 
-A：博主自己好玩搭的。
+A：博主自己好玩搭的。 
 
 Q：这个博客好吗？
 
-A：博主也不知道，大概是用来展现自己的弱小的吧。
+ A：博主也不知道，大概是用来展现自己的弱小的吧。
 
 <div algin="left">
-    <font size="6">
+    <font size="6" style="font-family:'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial,sans-serif">
         Friends
     </font>
 </div>
@@ -34,66 +36,18 @@ A：博主也不知道，大概是用来展现自己的弱小的吧。
 
 [$\color{greenblue}{\texttt{Forever_Pursuit}}$](https://codeforces.com/profile/Forever_Pursuit)：一个可爱的女孩纸，数学期望推柿子积分多项式大师。
 
+[$\color{grey}{\texttt{SegmentTree}}$](https://www.luogu.com.cn/user/118308)
+
 <div algin="left">
-    <font size="6">
+    <font size="6" style="font-family:'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial,sans-serif">
         Articles
     </font>
 </div>
 
-<div algin="left">
-    <font size="5" style="font-family:SontTi">
-        莫比乌斯反演
-    </font>
-</div>
-
-<div algin="left">
-    <font size="4" style="font-family:SontTi">
-        笔记
-    </font>
-</div>
-
 <div>
-    <body>
-        <table border="1">
-            <thead>
-                <tr>
-                    <td>笔记</td><td>题解/链接</td>
-            	</tr>
-            </thead>
-            <tr>
-                <td>莫比乌斯反演 1</td>
-                <td>
-                    <a href="https://cyn2006.github.io/2020/09/23/mobius1">
-                        <font color="skyblue">
-                            链接
-                        </font>
-                    </a>
-                </td>
-            </tr>
-            <tr>
-                <td>莫比乌斯反演 2</td>
-                <td>
-                    <a href="https://cyn2006.github.io/2020/09/26/mobius2">
-                        <font color="skyblue">
-                            链接
-                        </font>
-                    </a>
-                </td>
-            </tr>
-        </table>
-    </body>
-</div>
-
-<div algin="left">
-    <font size="5" style="font-family:SontTi">
-        Euler 计划
-    </font>
-</div>
-
-<div>
-    <a href="https://cyn2006.github.io/Euler/solution">
+    <a href="https://cyn2006.github.io/categories">
         <font color="skyblue">
-            总链接
+            点击此处
         </font>
     </a>
 </div>

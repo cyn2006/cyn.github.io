@@ -1,5 +1,11 @@
 [$\color{purple}{\text{back to top}}$](https://cyn2006.github.io/main.html)
 
+<div algin="left">
+    <font size="5" style="font-family:'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial,sans-serif">
+        Euler 计划
+    </font>
+</div>
+
 以下为 $\mathcal{Euler}$ 计划的部分题解。
 
 <div>
@@ -43,4 +49,3 @@
         </table>
     </body>
 </div>
-
