@@ -26,13 +26,13 @@ A：博主也不知道，大概是用来展现自己的弱小的吧。
     </font>
 </div>
 
-[$\color{black}{\texttt{zzc}}$](https://www.cnblogs.com/zzctommy)：他比我强很多。$\color{white}{\texttt{他简直比zhouakngyang还强}}$
+[$\color{black}{\texttt{zzc}}$](https://www.cnblogs.com/zzctommy)：他比我强很多。
 
 [$\color{black}{\texttt{z}}\color{red}{\texttt{houakngyang}}$](https://www.cnblogs.com/zkyJuruo)：他比我小还比我强，他是我们的红太阳，没有他我们都得死。
 
-[$\color{black}{\texttt{George1123}}$](https://www.cnblogs.com/george1123)：吊打我。
+[$\color{black}{\texttt{George1123}}$](https://www.cnblogs.com/george1123)：未来的省队队长，吊打我。
 
-[$\color{greenblue}{\texttt{Forever_Pursuit}}$](https://www.luogu.com.cn/blog/ForeverPursuit/)：一个可爱的女孩纸。
+[$\color{greenblue}{\texttt{Forever_Pursuit}}$](https://codeforces.com/profile/Forever_Pursuit)：一个可爱的女孩纸，数学期望推柿子积分多项式大师。
 
 <div algin="left">
     <font size="6">
