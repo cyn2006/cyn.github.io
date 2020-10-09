@@ -85,7 +85,7 @@ A：博主也不知道，大概是用来展现自己的弱小的吧。
 </div>
 
 <div algin="left">
-    <font size="4" style="font-family:SontTi">
+    <font size="5" style="font-family:SontTi">
         Euler 计划
     </font>
 </div>
