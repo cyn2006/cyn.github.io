@@ -26,7 +26,7 @@ A：博主也不知道，大概是用来展现自己的弱小的吧。
     </font>
 </div>
 
-[$\color{black}{\texttt{zzc}}$](https://www.cnblogs.com/zzctommy)：他比我强很多。
+[$\color{black}{\texttt{zzc}}$](https://www.cnblogs.com/zzctommy)：他比我强很多。$\color{white}{\texttt{他简直比zhouakngyang还强}}$
 
 [$\color{black}{\texttt{z}}\color{red}{\texttt{houakngyang}}$](https://www.cnblogs.com/zkyJuruo)：他比我小还比我强，他是我们的红太阳，没有他我们都得死。
 
