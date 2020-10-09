@@ -1,4 +1,4 @@
-[$\color{purple}{\text{back to top}}$](https://cyn2006.github.io)
+[$\color{purple}{\text{back to top}}$](https://cyn2006.github.io/main/html)
 
 <div>
     <font size="5",style="font-family:SontTi">
