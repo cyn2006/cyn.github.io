@@ -1,4 +1,4 @@
-[$\color{purple}{\text{back to top}}$](https://cyn2006.github.io/main.html)
+[$\color{purple}{\text{back to top}}$](https://cyn2006.github.io)
 
 # 莫反学习笔记 $2$
 

@@ -1,4 +1,4 @@
-[$\color{purple}{\text{back to top}}$](https://cyn2006.github.io/main.html)
+[$\color{purple}{\text{back to top}}$](https://cyn2006.github.io)
 
 <div algin="left">
     <font size="5" style="font-family:SontTi" style="font-family:'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial,sans-serif">

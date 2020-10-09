@@ -1,3 +1,5 @@
+[$\color{purple}{\text{back to top}}$](https://cyn2006.github.io)
+
 <div>
     <font size="6" style="font-family:'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial,sans-serif">
         Categories
