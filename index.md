@@ -36,7 +36,7 @@ Q：这个博客好吗？
 
 [$\color{greenblue}{\texttt{Forever_Pursuit}}$](https://codeforces.com/profile/Forever_Pursuit)：一个可爱的女孩纸，数学期望推柿子积分多项式大师。
 
-[$\color{grey}{\texttt{SegmentTree}}$](https://www.luogu.com.cn/user/118308)
+[$\color{grey}{\texttt{SegmentTree}}$](https://www.luogu.com.cn/user/118308)：假假。 <font color="white">永远滴神！/se</font>
 
 <div algin="left">
     <font size="6" style="font-family:'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial,sans-serif">
