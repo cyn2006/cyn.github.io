@@ -30,6 +30,16 @@
                     </a>
                 </td>
             </tr>
+            <tr>
+                <td> P439 </td>
+                <td>
+                    <a href="https://www.luogu.com.cn/blog/stupidcyn/euler-p439">
+                        <font color="skyblue">
+                            链接
+                        </font>
+                    </a>
+                </td>
+            </tr>
         </table>
     </body>
 </div>
