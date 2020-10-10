@@ -1,6 +1,6 @@
 [$\color{purple}{\text{back to top}}$](https://cyn2006.github.io)
 
-萌新第一次学概率期望。$\color{white}{\texttt{%foo %oh-oh}}$
+萌新第一次学概率期望。
 
 如无特殊说明，以下题目中取一样本的概率相等。
 
