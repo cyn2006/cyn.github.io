@@ -19,4 +19,8 @@
         <tr>
             <td>dp</td><td><a href="https://cyn2006.github.io/categories/dp"><font color="skyblue">链接</font></a></td>
         </tr>
+        <tr>
+            <td>概率期望</td><td><a href="https://cyn2006.github.io/categories/probablity"><font color="skyblue">链接</font></a></td>
+        </tr>
 </div>
+
