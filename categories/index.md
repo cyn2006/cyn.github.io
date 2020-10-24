@@ -22,5 +22,8 @@
         <tr>
             <td>概率期望</td><td><a href="https://cyn2006.github.io/categories/probablity"><font color="skyblue">链接</font></a></td>
         </tr>
+        <tr>
+            <td>多项式</td><td><a href="https://cyn2006.github.io/categories/polynomial"><font color="skyblue">链接</font></a></td>
+        </tr>
 </div>
 
