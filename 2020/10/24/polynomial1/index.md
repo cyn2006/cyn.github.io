@@ -719,6 +719,80 @@ $$
 
 根据主定理，时间复杂度为 $O(n\log n)$。
 
+```cpp
+#include<bits/stdc++.h>
+#define rep(i,x,y) for(int i=x,i##end=y;i<=i##end;++i)
+#define _rep(i,x,y) for(int i=x,i##end=y;i>=i##end;--i)
+#define ll long long
+#define N 5000005
+const int mod=998244353,G=3,_inv=mod+1>>1;
+inline void reduce(int&x){x-=mod,x+=x>>31&mod;}
+//inline int upd(int x){x-=mod; return x+=x>>31&mod;}
+inline int upd(int x){return x+=x>>31&mod;}
+int wn[N],rev[N];
+inline int qpow(int x,int y,int ret=1){
+	for(;y;y>>=1,x=1ll*x*x%mod) if(y&1)
+		ret=1ll*ret*x%mod; return ret;
+}
+namespace ntt{
+	inline void install(int n){
+		for(int mid=1;mid<n;mid<<=1){
+			int w=qpow(G,mod/mid>>1);
+			wn[mid]=1;
+			rep(i,1,mid-1) wn[mid+i]=1ll*wn[mid+i-1]*w%mod;
+		}
+	}
+	int lim,invlim;
+	inline void init(int n){
+		for(lim=invlim=1;lim<n;lim<<=1)
+			invlim=1ll*invlim*_inv%mod;
+		rep(i,1,lim-1) rev[i]=rev[i>>1]>>1|(lim>>1&-(i&1));
+	}
+	inline void ntt(int *a,int ty){
+		static int b[N];
+		rep(i,0,lim-1) b[i]=a[rev[i]];
+		for(int mid=1;mid<lim;mid<<=1){
+			for(int i=0;i<lim;i+=mid<<1){
+				rep(j,0,mid-1){
+					const int x=1ll*b[i+j+mid]*wn[mid+j]%mod;
+					b[i+j+mid]=upd(b[i+j]-x);
+					reduce(b[i+j]+=x);
+				}
+			}
+		}
+		if(!ty){
+			rep(i,0,lim-1) a[i]=1ll*b[i]*invlim%mod;
+			std::reverse(a+1,a+lim);
+		} else {
+			std::memcpy(a,b,lim<<2);
+		}
+	}
+}
+int f[N],g[N],n;
+
+inline void solve(int len,int *f,int *g){
+	if(len==1) return g[0]=qpow(f[0],mod-2),void();
+	solve(len+1>>1,f,g);
+	ntt::install(len<<2),ntt::init(len<<1);
+	static int c[N];
+	rep(i,0,len-1) c[i]=f[i];
+	rep(i,len,ntt::lim-1) c[i]=0;
+	ntt::ntt(g,1),ntt::ntt(c,1);
+	rep(i,0,ntt::lim-1) g[i]=upd(2ll*g[i]%mod-1ll*c[i]*g[i]%mod*g[i]%mod);
+	ntt::ntt(g,0);
+	rep(i,len,ntt::lim-1) g[i]=0;
+}
+
+int main(){
+	std::ios::sync_with_stdio(0),std::cin.tie(0),std::cout.tie(0);
+	std::cin>>n;
+	rep(i,0,n-1) std::cin>>f[i];
+	solve(n,f,g);
+	rep(i,0,n-1) std::cout<<g[i]<<" \n"[i==n-1];
+	return 0;
+}
+```
+
 #### P4725 【模板】多项式对数函数（多项式 ln）
 
 > 前置知识：复合函数 $f(g(x))$ 的求导公式为 $(f(g(x)))'=f'(g(x))g'(x)$。$\ln(x)$ 的导数为 $\dfrac{1}{x}$。
