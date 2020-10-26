@@ -23,7 +23,7 @@
             <tr>
                 <td>莫比乌斯反演 1</td>
                 <td>
-                    <a href="https://cyn2006.github.io/2020/09/23/mobius1">
+                    <a href="https://cyn2006.github.io/2020/09/23/mobius1/">
                         <font color="skyblue">
                             链接
                         </font>
@@ -33,7 +33,7 @@
             <tr>
                 <td>莫比乌斯反演 2</td>
                 <td>
-                    <a href="https://cyn2006.github.io/2020/09/26/mobius2">
+                    <a href="https://cyn2006.github.io/2020/09/26/mobius2/">
                         <font color="skyblue">
                             链接
                         </font>
