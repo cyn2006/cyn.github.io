@@ -26,6 +26,6 @@
             <td>多项式</td><td><a href="https://cyn2006.github.io/categories/polynomial"><font color="skyblue">链接</font></a></td>
         </tr>
         <tr>
-            <td>计算几何</td><td><a href="https://cyn2006.github.io/categories/geomtery"><font color="skyblue">链接</font></a></td>
+            <td>计算几何</td><td><a href="https://cyn2006.github.io/categories/geometry"><font color="skyblue">链接</font></a></td>
 </div>
 
