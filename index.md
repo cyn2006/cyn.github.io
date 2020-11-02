@@ -28,7 +28,7 @@ Q：这个博客好吗？
     </font>
 </div>
 
-[$\color{black}{\texttt{zzc}}$](https://www.cnblogs.com/zzctommy)：他比我强很多。
+<a href="https://www.cnblogs.com/zzctommy"><strong><font color="black">世外明月</font></strong></a>：他比我强很多。
 
 [$\color{black}{\texttt{z}}\color{red}{\texttt{houakngyang}}$](https://www.cnblogs.com/zkyJuruo)：他比我小还比我强，他是我们的红太阳，没有他我们都得死。
 
